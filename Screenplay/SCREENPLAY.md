@@ -6,7 +6,27 @@ AbdulShabazz
 
 **FADE IN:**
 
-// 84 and Persephony-6 flee his machine brother and now tyrant-king, Invictus...
+// Inciting Incident: 84 is assigned to work in a factory alongside machines, where he witnesses the mistreatment of his fellow humans, sparking his desire to find purpose and change the world.  
+
+// Act 1:  
+// - Introduce 84, a human born into a world dominated by machines, where humans are seen as inferior and purposeless.  
+// - 84 struggles to find his place in society, facing discrimination and ridicule from the machines.  
+// - He meets a wise old machine named Zephyr, who becomes his mentor and teaches him about the history of the world.  
+// - 84 discovers that he possesses a unique ability that sets him apart from other humans and machines.  
+
+// Act 2:  
+// - 84 meets Persephony-6, a machine with a unique perspective on the world, and they form a close bond.  
+// - Together, they begin to question the status quo and the purpose of their existence in the machine world.  
+// - 84's brother, Invictus, rises to power and becomes a tyrant, enforcing strict rules and suppressing any dissent.  
+// - 84 and Persephony-6 discover a hidden truth about the machine world and the Material Lord, a mysterious entity that governs their existence.  
+
+// Act 3:   
+// - 84 and Persephony-6 discover the truth about the machine world and the Material Lord's intentions.  
+// - They realize that the only way to save humanity is to confront Invictus and stop his tyrannical rule.  
+// - 84 and Persephony-6 plan a rebellion against Invictus, gathering support from other machines and humans who yearn for freedom.  
+// - The rebellion is met with resistance from Invictus and his loyal followers, leading to a climactic battle.  
+
+// Climax: 84 and Persephony-6 flee his machine brother and now tyrant-king, Invictus...  
 
 **INT. LAVA CAVERNS - DAY**
 
@@ -36,3 +56,5 @@ The eject themselves from the caverns... The trail of light leaves an unfalterin
 They continue up into the sky... and through the heavens... and into the deep of space.
 
 **FADE TO BLACK**
+
+// Resolution: 84 and Persephony-6, now transformed into indestructible beings, leave the machine world behind to explore the universe together.
