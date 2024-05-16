@@ -58,3 +58,7 @@ They continue up into the sky... and through the heavens... and into the deep of
 **FADE TO BLACK**
 
 // Resolution: 84 and Persephony-6, now transformed into indestructible beings, leave the machine world behind to explore the universe together.
+
+50 lines = 1 pg
+
+Total lines 4_500 (90 pgs)
