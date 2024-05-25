@@ -38,6 +38,8 @@ They turn and gaze into one another's eyes... and then they JUMP!!
 
 Invictus remains, stunned...
 
+He then raises his hands to summon his magic, but he ultimately decides NOT!
+
 The plume which surrounds the Material Lord, enters the cavern. Upon seeing this, heartbroken, he FALTERS into a mechanical cloud of diamond-like particles, which filter into the cavern.
 
 MATERIAL LORD  
