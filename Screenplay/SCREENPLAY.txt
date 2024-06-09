@@ -1,10 +1,10 @@
-**(I Am Number) 84**
+(I Am Number) 84
 
 By
 
 AbdulShabazz
 
-**FADE IN:**
+FADE IN:
 
 // Inciting Incident: 84 is assigned to work in a factory alongside machines, where he witnesses the mistreatment of his fellow humans, sparking his desire to find purpose and change the world.  
 
@@ -28,7 +28,7 @@ AbdulShabazz
 
 // Climax: 84 and Persephony-6 flee his machine brother and now tyrant-king, Invictus...  
 
-**INT. LAVA CAVERNS - DAY**
+INT. LAVA CAVERNS - DAY
 
 Invictus and his great machine army pursue 84 and Persephony-6 up the narrow mountain passage, as they flee, toward the precipice.
 
@@ -57,7 +57,7 @@ The eject themselves from the caverns... The trail of light leaves an unfalterin
 
 They continue up into the sky... and through the heavens... and into the deep of space.
 
-**FADE TO BLACK**
+FADE TO BLACK
 
 // Resolution: 84 and Persephony-6, now transformed into indestructible beings, leave the machine world behind to explore the universe together.
 
