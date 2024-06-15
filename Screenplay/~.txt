@@ -196,6 +196,14 @@ where The Material Lord is pinned at its highest level; The Material Lord predic
 // The child-Like Zephyr constructs tiny rockets for 84, allowing him to super jump and reach higher levels.
 
 /*
+84 convinces Danrude to drink the dark potion
+*/
+
+/*
+84 tries to reach the dark subchamber to convince Danrude to drink the dark antipotion
+*/
+
+/*
 88 discovers the half-rendered (atomic) state and its ability 
 to conceal gravitational effects (such as mass) while exposing the 
 remaining transcendental forces, allowing for the construction of advanced materials and megastructures
